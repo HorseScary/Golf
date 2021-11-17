@@ -1,4 +1,4 @@
-console.log('penis')
+console.log('a')
 for(let i=0;i<100;i++){
     a='';
     if(i%5!=0&&i%3!=0){
